@@ -6,7 +6,7 @@
     align-items:center;
     background-color:red;
     flex-direction:column;
-    gap:30px;
+    gap:10px;
     border-radius:9px;
     background:linear-gradient(to right, blue,navy,black);
 }
@@ -26,4 +26,10 @@ input{
     width:200px;
     height:40px;
     border-radius:8px;
+}
+p{
+    
+    color:aliceblue;
+    font-weight:bolder;
+    font-size:15px;
 }
