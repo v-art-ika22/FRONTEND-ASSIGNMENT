@@ -26,10 +26,14 @@ input{
     width:200px;
     height:40px;
     border-radius:8px;
+    font-weight:bolder;
 }
 p{
     
     color:aliceblue;
     font-weight:bolder;
     font-size:15px;
+}
+h1{
+    color:white;
 }
