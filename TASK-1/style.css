@@ -1,0 +1,40 @@
+ #newLi{
+            list-style:none;
+            font-size:50px;
+         }
+         body{
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            min-height:100vh;
+            flex-direction:column;
+            background:linear-gradient(to right,red,yellow,orange,pink);
+         
+         }
+         .outer{
+            width:500px;
+            height:80px;
+            background:linear-gradient(to right,blue,navy,black);
+         }
+         #display{
+            width:300px;
+            height:30px;
+            
+         }
+         #priority{
+            width:100px;
+            height:30px;
+           
+         }
+         .btn{
+            width:200px;
+            height:30px;
+            border-radius:8px;
+         }
+         .btn{
+            width:200px;
+            height:30px;
+            border-radius:8px;
+            color:white;
+            background-color:blue;
+         }

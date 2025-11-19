@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            task
+        </title>
+        <link href="style.css" rel="stylesheet">
+      
+       
+    </head>
+    <body>
+        <h1>TO DO LIST</h1>
+        <div class="outer">
+            <input type="text" id="display" placeholder="enter items">
+             
+    <select id="priority" onchange="filterItems()">
+        <option value="all">All</option>
+        <option value="high">High</option>
+        <option value="medium">Medium</option>
+        <option value="low">Low</option>
+    </select>
+    <button class="btn" onclick="add()">ADD ITEMS</button>
+        </div>
+        <div>
+            <ul id="newLi"></ul>
+        </div>
+    </body>
+    <script src="index.js"></script>
+    
+</html>
