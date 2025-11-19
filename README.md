@@ -2,7 +2,7 @@
 <div>
   <img src="https://github.com/v-art-ika22/FRONTEND-ASSIGNMENT/blob/main/IMAGES/task%201%2C1.png" width="300px" height="200px">
    <img src="https://github.com/v-art-ika22/FRONTEND-ASSIGNMENT/blob/main/IMAGES/task%201%2C2.png" width="300px" height="200px">
-   <img src="" width="300px" height="200px">
+   <img src="https://github.com/v-art-ika22/FRONTEND-ASSIGNMENT/blob/main/IMAGES/task1%2C3.png" width="300px" height="200px">
    <img src="" width="300px" height="200px">
 </div>
 <br>
