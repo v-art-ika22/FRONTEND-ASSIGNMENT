@@ -11,6 +11,8 @@
             min-height:100vh;
             flex-direction:column;
             gap:3px;
+            background:linear-gradient(to right, red,orange,yellow,pink,orange);
+            
         }
         .outer{
             display:flex;
@@ -24,7 +26,8 @@
             width:200px;
             height:30px;
             border-radius:8px;
-            background: linear-gradient(135deg, #f6d365, #fda085);
+            background: linear-gradient(blue,navy,magenta);
+            color:white;
 
         }
         #search{
@@ -36,9 +39,9 @@
         button:hover{
             transform:scale(1.2);
         }
-        h3{
+        h2{
             font-size:large;
-            color:blue;
+            color:black;
         }
         #output {
     margin-top: 10px;
@@ -46,7 +49,9 @@
     grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
     gap: 15px;
     width: 600px;
-    background-color:red;
+    font-size:larger;
+    color:black;
+    
 }
 .product-item {
     padding: 12px;
@@ -62,12 +67,15 @@
 .product-item:hover {
     transform: scale(1.07);
 }
+h1{
+    color:black;
+}
        
     </style>
 </head>
 <body>
 
-    <h2>Product Filter</h2>
+    <h1>Product Filter</h1>
     <div class="design">
   
     <button onclick="showAll()">All</button>
@@ -78,7 +86,7 @@
     <br><br>
     <input id="search" placeholder="Search..." onkeyup="searchProduct()">
 
-    <h3>Products:</h3>
+    <h2>Products:</h2>
     <div id="output"></div>
 
     

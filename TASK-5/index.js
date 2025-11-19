@@ -48,15 +48,22 @@
         function searchProduct() {
             let text = document.getElementById("search").value.toLowerCase();
 
-            let result = "";
+            let result = "";let found=false;
             for (let p of products) {
                 if (p.name.toLowerCase().includes(text)) {
                     result += p.name + " (" + p.category + ")<br>";
                 }
+                else{
+                    document.getElementById("output").innerHTML="NO SUCH ITEM FOUND";
+                    found=true;
+                }
             }
-            document.getElementById("output").innerHTML = result;
+            if(found==false){
+
+            
+            document.getElementById("output").innerHTML = result;}
         }
-         let output = document.getElementById("output");
+        
 
         
         showAll();
