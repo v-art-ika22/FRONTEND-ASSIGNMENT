@@ -1,3 +1,11 @@
+<H1>TASK 1: To Do List</H1>
+<div>
+  <img src="" width="300px" height="200px">
+   <img src="" width="300px" height="200px">
+   <img src="" width="300px" height="200px">
+   <img src="" width="300px" height="200px">
+</div>
+<br>
 <h1> Task 2: Live Character Counter</h1>
 <div> 
   <img src="https://github.com/v-art-ika22/FRONTEND-ASSIGNMENT/blob/main/IMAGES/task%202%2C1.png" alt="task" width="500px" height="350px">
@@ -20,5 +28,6 @@
 <img src="https://github.com/v-art-ika22/FRONTEND-ASSIGNMENT/blob/main/IMAGES/task%205%2C3.png"width="500px" height="300px">
 <img src="https://github.com/v-art-ika22/FRONTEND-ASSIGNMENT/blob/main/IMAGES/Task%205%2C4.png"width="500px" height="300px">
 </div>
+
 
   
