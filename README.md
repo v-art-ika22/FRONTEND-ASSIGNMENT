@@ -12,5 +12,13 @@
   <img src="https://github.com/v-art-ika22/FRONTEND-ASSIGNMENT/blob/main/IMAGES/task4%2C2.png"  width="320px" height="350px">
   <img src="https://github.com/v-art-ika22/FRONTEND-ASSIGNMENT/blob/main/IMAGES/task4%2C3.png"width="320px" height="350px">
 </div>
+<br>
+<h1>TASK 5: Interactive Product Filter</h1>
+<div>
+<img src=""width="300px" height="200px">
+<img src=""width="300px" height="200px">
+<img src=""width="300px" height="200px">
+<img src=""width="300px" height="200px">
+</div>
 
   
