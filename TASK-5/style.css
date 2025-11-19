@@ -1,0 +1,37 @@
+/* --- Overall Page --- */
+body {
+    margin: 0;
+    padding: 40px 0;
+    font-family: "Poppins", Arial, sans-serif;
+    background: #f3f4f6;
+    display: flex;
+    justify-content: center;
+}
+
+/* --- Center Wrapper --- */
+.container {
+    width: 100%;
+    max-width: 480px;
+    background: #ffffff;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0px 4px 14px rgba(0,0,0,0.08);
+}
+
+/* --- Heading --- */
+h2 {
+    margin: 0 0 15px 0;
+    text-align: center;
+    font-size: 24px;
+    color: #333;
+}
+
+/* --- Buttons Row --- */
+button {
+    background: #2563eb;
+    color: white;
+    border: none;
+    padding: 10px 18px;
+    border-radius: 8px;
+    margin: 6px 3px;
+    cursor: poi
