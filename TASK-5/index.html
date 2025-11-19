@@ -3,15 +3,77 @@
 <head>
     <title>Easy Product Filter</title>
     <link href="style.css" rel="stylesheet">
+    <style>
+        body{
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            min-height:100vh;
+            flex-direction:column;
+            gap:3px;
+        }
+        .outer{
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            
+
+            
+        }
+        button{
+            width:200px;
+            height:30px;
+            border-radius:8px;
+            background: linear-gradient(135deg, #f6d365, #fda085);
+
+        }
+        #search{
+            width:300px;
+            height:30px;
+            background-color:aqua;
+            border-radius:8px;
+        }
+        button:hover{
+            transform:scale(1.2);
+        }
+        h3{
+            font-size:large;
+            color:blue;
+        }
+        #output {
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 15px;
+    width: 600px;
+    background-color:red;
+}
+.product-item {
+    padding: 12px;
+    background: linear-gradient(135deg, #a1c4fd, #c2e9fb);
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+    transition: 0.3s ease;
+    box-shadow: 0px 2px 5px rgba(0,0,0,0.2);
+}
+
+.product-item:hover {
+    transform: scale(1.07);
+}
+       
+    </style>
 </head>
 <body>
 
     <h2>Product Filter</h2>
-
+    <div class="design">
   
     <button onclick="showAll()">All</button>
     <button onclick="showElectronics()">Electronics</button>
     <button onclick="showClothing()">Clothing</button>
+    </div>
 
     <br><br>
     <input id="search" placeholder="Search..." onkeyup="searchProduct()">

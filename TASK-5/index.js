@@ -56,6 +56,7 @@
             }
             document.getElementById("output").innerHTML = result;
         }
+         let output = document.getElementById("output");
 
         
         showAll();
