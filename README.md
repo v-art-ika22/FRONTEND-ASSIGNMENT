@@ -41,4 +41,11 @@
 
 </div>
 
+<h1>TASK 7: Random Joke Generator</h1>
+<div>
+<img src=""width="500px" height="300px">
+<img src=""width="500px" height="300px">
+
+</div>
+
   
