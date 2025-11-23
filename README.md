@@ -14,6 +14,12 @@
   <img src="https://github.com/v-art-ika22/FRONTEND-ASSIGNMENT/blob/main/IMAGES/task%202%2C4.png" width="500px" height="350px">
 </div>
 <br>
+<h1>TASK 3:  Image Carousel</h1>
+<div>
+<img src=""width="500px" height="300px">
+<img src=""width="500px" height="300px">
+
+</div>
 <h1> Task 4: Form Validation App </h1>
 <div>
   <img src="https://github.com/v-art-ika22/FRONTEND-ASSIGNMENT/blob/main/IMAGES/Screenshot%202025-11-19%20020333.png" width="320px" height="350px">
