@@ -1,0 +1,21 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  min-height:100vh;
+  flex-direction:column;
+  background-color:black;
+}
+
+button {
+  padding: 10px 20px;
+  cursor: pointer;
+  background-color:red;
+  border-radius:10px;
+}
+*{
+    color:white;
+}
+
