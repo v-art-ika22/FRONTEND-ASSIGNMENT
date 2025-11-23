@@ -43,7 +43,7 @@
 
 <h1>TASK 7: Random Joke Generator</h1>
 <div>
-<img src=""width="500px" height="300px">
+<img src="https://github.com/v-art-ika22/FRONTEND-ASSIGNMENT/blob/main/IMAGES/task7%2C1.png"width="500px" height="300px">
 <img src=""width="500px" height="300px">
 
 </div>
