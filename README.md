@@ -30,7 +30,7 @@
 </div>
 <h1>TASK 6: Fetch and Display User Data</h1>
 <div>
-<img src=""width="500px" height="300px">
+<img src="https://github.com/v-art-ika22/FRONTEND-ASSIGNMENT/blob/main/IMAGES/task%206%2C2.png"width="500px" height="300px">
 <img src=""width="500px" height="300px">
 
 </div>
