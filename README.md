@@ -48,4 +48,11 @@
 
 </div>
 
+<h1>TASK 8: Weather information</h1>
+<div>
+
+<img src=""width="500px" height="300px">
+
+</div>
+
   
